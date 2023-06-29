@@ -24,6 +24,8 @@ Acreditamos que fazer isso nos ajuda a repassar e fixar melhor os conteúdos est
 | <p align="center"> [<img src="https://avatars.githubusercontent.com/u/100203503?v=4" width=110><br><sub>Amanda Ailin</sub>](https://github.com/AmandaAilin)<br><sub>![Static Badge](https://img.shields.io/badge/-Linkedin-blue)</sub> | [<img src="https://avatars.githubusercontent.com/u/97669160?v=4" width=110><br><sub>Marlon James</sub>](https://github.com/MarlonJames99)<br><sub>![Static Badge](https://img.shields.io/badge/-Linkedin-blue)</sub> </p>| 
 | :---: | :---: |
 
+Somos um casal composto por um brasileiro e uma argentina apaixonados por tecnologia.<br> O interesse pela programação começou no início de 2022 quando buscávamos um novo rumo para nossa vida profissional e de lá pra cá estivemos estudando por conta própria, até iniciarmos a graduação em engenharia de software no final de 2022.
+
 <br>
 
 ## :pushpin: Futuras implementações
